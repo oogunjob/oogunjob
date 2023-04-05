@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tosin Ogunjobi</h1>
-<h3 align="center">A passionate full-stack developer from Saint Louis, Missouri!</h3>
+<h3 align="center">A passionate full-stack developer from Saint Louis, Missouri !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oogunjob&label=Profile%20views&color=0e75b6&style=flat" alt="oogunjob" /> </p>
 
