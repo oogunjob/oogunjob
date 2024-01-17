@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oogunjob" alt="oogunjob" /></a> </p>
 
-- 🔭 I’m currently working on **a project that will change the music industry**
+- 🔭 I’m currently working on **projects centered around my love for music.**
 
 - 🤝 I’m looking for help with **this project. Reach out to me!**
 
