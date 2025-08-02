@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oogunjob" alt="oogunjob" /></a> </p>
 
-- 🔭 I'm currently working on **projects centered around my love for music.**
+- 🔭 I'm currently working on **something that will help shape the Bitcoin community.**
 
 - 🤝 I'm always for new opportunities to collaborate and work on new projects. Feel free to reach out to me!
 
-- 🌱 I'm currently learning **NextJS, Go, and EdgeDB**
+- 🌱 I'm currently learning **NextJS, Golang, and EdgeDB**
 
 - 📫 How to reach me **ogunjobi.developer@gmail.com**
 
