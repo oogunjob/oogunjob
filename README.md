@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oogunjob&label=Profile%20views&color=0e75b6&style=flat" alt="oogunjob" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oogunjob" alt="oogunjob" /></a> </p>
-
 - 🔭 I'm currently working on **something that will help shape the Bitcoin community.**
 
 - 🤝 I'm always for new opportunities to collaborate and work on new projects. Feel free to reach out to me!
