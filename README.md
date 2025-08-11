@@ -1,34 +1,23 @@
-<h1 align="center">Hi 👋, I'm Tosin Ogunjobi</h1>
-<h3 align="center">A passionate full-stack developer from St. Louis, Missouri</h3>
+<h1 align="center">Hi 👋🏾, I'm Tosin Ogunjobi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oogunjob&label=Profile%20views&color=0e75b6&style=flat" alt="oogunjob" /> </p>
+# About Me
 
-- 🔭 I'm currently working on **something that will help shape the Bitcoin community.**
+[![GitHub](https://img.shields.io/badge/GitHub-%40oogunjob-239a3b.svg)](https://github.com/oogunjob)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/ashtom/)
+[![X](https://img.shields.io/badge/X-%40ashtom-222222.svg)](https://x.com/ashtom)
+[![X](https://komarev.com/ghpvc/?username=oogunjob&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/oogunjob)
 
+Backend software engineer with 3+ years of industry experience building scalable and reliable systems. Designed and built RESTful APIs and internal frameworks that improved data security by 15% and reduced latency by 10% across Microsoft projects. Collaborated with cross-functional teams to implement engineering standards, resulting in a 20% reduction in code defects. Excellent communication skills demonstrated through technical presentations to stakeholders and mentoring junior developers.
+
+I'm interested in working in various different projects, but right now I'm building an app that will help transform and grow the **Bitcoin community**.
+
+<br/>
 - 🤝 I'm always for new opportunities to collaborate and work on new projects. Feel free to reach out to me!
 
-- 🌱 I'm currently learning **NextJS, Golang, and EdgeDB**
+- 🌱 I'm currently learning **Rust, NextJS, Golang, and EdgeDB**
 
 - 📫 How to reach me **ogunjobi.developer@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/tosinxogunjobi" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="tosinxogunjobi on X" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/oluwatosin-ogunjobi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwatosin-ogunjobi" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@ogunjobidevelops" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ogunjobidevelops" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oogunjob&show_icons=true&locale=en&layout=compact" alt="oogunjob" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oogunjob&show_icons=true&locale=en" alt="oogunjob" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oogunjob&" alt="oogunjob" /></p>
