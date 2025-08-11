@@ -7,7 +7,7 @@
 [![X](https://img.shields.io/badge/X-%40tosinxogunjobi-222222.svg)](https://x.com/tosinxogunjobi)
 [![X](https://komarev.com/ghpvc/?username=oogunjob&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/oogunjob)
 
-Backend software engineer with 3+ years of industry experience building scalable and reliable systems. Designed and built RESTful APIs and internal frameworks that improved data security by 15% and reduced latency by 10% across Microsoft projects. Collaborated with cross-functional teams to implement engineering standards, resulting in a 20% reduction in code defects. Excellent communication skills demonstrated through technical presentations to stakeholders and mentoring junior developers.
+Full stack software engineer with 3+ years of industry experience building scalable and reliable systems. Designed and built RESTful APIs and internal frameworks that improved data security by 15% and reduced latency by 10% across Microsoft projects. Collaborated with cross-functional teams to implement engineering standards, resulting in a 20% reduction in code defects. Excellent communication skills demonstrated through technical presentations to stakeholders and mentoring junior developers.
 
 I'm interested in working in various different projects, but right now I'm building an app that will help transform and grow the **Bitcoin community**.
 
