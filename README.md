@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋🏾, I'm Tosin Ogunjobi</h1>
-
-# About Me
+# Hi 👋🏾, I'm Tosin Ogunjobi
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40oogunjob-239a3b.svg)](https://github.com/oogunjob)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/oluwatosin-ogunjobi/)
 [![X](https://img.shields.io/badge/X-%40tosinxogunjobi-222222.svg)](https://x.com/tosinxogunjobi)
 [![X](https://komarev.com/ghpvc/?username=oogunjob&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/oogunjob)
 
-Full stack software engineer with 3+ years of industry experience building scalable and reliable systems. Designed and built RESTful APIs and internal frameworks that improved data security by 15% and reduced latency by 10% across Microsoft projects. Collaborated with cross-functional teams to implement engineering standards, resulting in a 20% reduction in code defects. Excellent communication skills demonstrated through technical presentations to stakeholders and mentoring junior developers.
+I'm a full stack software engineer with 3+ years of industry experience building scalable and reliable systems. Designed and built RESTful APIs and internal frameworks that improved data security by 15% and reduced latency by 10% across Microsoft projects. Collaborated with cross-functional teams to implement engineering standards, resulting in a 20% reduction in code defects. Excellent communication skills demonstrated through technical presentations to stakeholders and mentoring junior developers.
 
 I'm interested in working in various different projects, but right now I'm building an app that will help transform and grow the **Bitcoin community**.
 
