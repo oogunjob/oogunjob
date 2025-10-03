@@ -9,6 +9,8 @@ I'm a full stack software engineer with over 3 years of industry experience at M
 
 I'm interested in working in various different projects, but right now I'm building an app that will help transform and grow the **Bitcoin community**.
 
+Make sure to check out the organization I'm buidling, **[HRZN](https://github.com/HRZN-BTC)**.
+
 
 - 🤝 I'm always for new opportunities to collaborate and work on new projects. Feel free to reach out to me!
 
